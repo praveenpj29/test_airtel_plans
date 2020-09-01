@@ -40,8 +40,8 @@ command
 
 ## screenshots
 
+### allure report
+- ![allure_report](.//screenshots/allure_report.png)
 
-![allure_report](.//screeshots/allure_report.png)
-
-
-![excel_report](.//screenshots/excel_report.png)
+### excel report
+- ![excel_report](.//screenshots/excel_report.png)
